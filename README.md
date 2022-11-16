@@ -18,18 +18,18 @@ This project allows users to draw UML diagrams using drag and drop
 
 ### Diagram
 <p align="center">
-  <img src="https://github.com/Scavix/UML-Code-Generator/diagram.png"/>
+  <img src="https://github.com/Scavix/UML-Code-Generator/blob/main/diagram.png"/>
 </p>
 
 ### Classes
 <p align="center">
-  <img src="https://github.com/Scavix/UML-Code-Generator/a.png"/>
+  <img src="https://github.com/Scavix/UML-Code-Generator/blob/main/a.png"/>
 </p>
 <p align="center">
-  <img src="https://github.com/Scavix/UML-Code-Generator/b.png"/>
+  <img src="https://github.com/Scavix/UML-Code-Generator/blob/main/b.png"/>
 </p>
 <p align="center">
-  <img src="https://github.com/Scavix/UML-Code-Generator/c.png"/>
+  <img src="https://github.com/Scavix/UML-Code-Generator/blob/main/c.png"/>
 </p>
 
 ## Contributing
